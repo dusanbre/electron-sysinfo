@@ -1,0 +1,14 @@
+{
+  "name": "electronsysinfoapp",
+  "version": "1.0.0",
+  "description": "Electron System Info Application",
+  "main": "index.js",
+  "scripts": {
+    "start": ".\\node_modules\\electron\\dist\\electron.exe ."
+  },
+  "author": "Dusan Antonijevic",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.0"
+  }
+}
